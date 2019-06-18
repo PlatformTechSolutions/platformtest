@@ -144,14 +144,14 @@ h2.has-line-center .heading-bg-text {
 .lead {
     font-size: 1.1em;
     color: #fff;
-    line-height: 1.9em
+    line-height: 1.9em;
 }
 
 
 
 
 .gray-bg {
-    background: #f4f4f4
+    background: #f4f4f4;
 }
 
 .heading-bg-text,
@@ -161,7 +161,7 @@ h2.has-line-center .heading-bg-text {
     -webkit-user-select: none;
     cursor: default;
     font-family: Montserrat, sans-serf;
-    text-transform: uppercase
+    text-transform: uppercase;
 }
 
 .more-btn {
@@ -181,7 +181,7 @@ h2.has-line-center .heading-bg-text {
 }
 .more-btn:hover {
 	color: #fff;
-	background: #333
+	background: #333;
 }
 
 .line {
@@ -190,7 +190,7 @@ h2.has-line-center .heading-bg-text {
     border-bottom: 1px solid #eee;
     -webkit-transform: translateY(150px);
     -ms-transform: translateY(150px);
-    transform: translateY(150px)
+    transform: translateY(150px);
 }
 
 
@@ -198,15 +198,15 @@ h2.has-line-center .heading-bg-text {
 .text-bg-gray {
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%)
+    transform: translate(-50%, -50%);
 }
 
 .has-text-shadow {
-    text-shadow: 0 0 35px rgba(0, 0, 0, .3)
+    text-shadow: 0 0 35px rgba(0, 0, 0, .3);
 }
 
 .has-shadow {
-    box-shadow: 0 0 35px rgba(0, 0, 0, .1)
+    box-shadow: 0 0 35px rgba(0, 0, 0, .1);
 }
 
 .has-line-center:after,
@@ -215,47 +215,47 @@ h2.has-line-center .heading-bg-text {
     display: block;
     width: 100px;
     height: 2px;
-    margin: 15px 0
+    margin: 15px 0;
 }
 
 .has-line-center:after {
-    margin: 15px auto 0
+    margin: 15px auto 0;
 }
 
 .limited-width {
-    max-width: 800px
+    max-width: 800px;
 }
 
 .no-padding-top {
-    padding-top: 0!important
+    padding-top: 0!important;
 }
 
 .no-padding-bottom {
-    padding-bottom: 0px !important
+    padding-bottom: 0px !important;
 }
 
 .padding-top-small {
-    padding-top: 100px!important
+    padding-top: 100px!important;
 }
 
 .padding-bottom-small {
-    padding-bottom: 100px!important
+    padding-bottom: 100px!important;
 }
 
 .no-margin-top {
-    margin-top: 0!important
+    margin-top: 0!important;
 }
 
 .no-margin-bottom {
-    margin-bottom: 20px!important
+    margin-bottom: 20px!important;
 }
 
 .margin-top-small {
-    margin-top: 100px!important
+    margin-top: 100px!important;
 }
 
 .margin-bottom-small {
-    margin-bottom: 100px!important
+    margin-bottom: 100px!important;
 }
 .gradient-btn{
     background-image: linear-gradient(to right, #84cbff 0%, #6f73ff 100%) !important;
@@ -270,31 +270,31 @@ h2.has-line-center .heading-bg-text {
     background-image: linear-gradient(to right, #eb7667 0%, #ffad66 100%) !important;
 }
 .dark-text{
-    color: #fff !important
+    color: #fff !important;
 }
 .bold{
     font-weight: bold !important;
 }
 .green{
-    color: #16caab !important
+    color: #16caab !important;
 }
 .yellow{
-    color: #feda14 !important
+    color: #feda14 !important;
 }
 .orange{
-    color: #eb7667 !important
+    color: #eb7667 !important;
 }
 .has-wine-gradient {
     background-image: -webkit-linear-gradient(bottom left, #fb4c7f 0%, #573d7d 100%);
     background-image: -webkit-gradient(linear, left top, left bottom, from(to right), color-stop(#573d7d), to(#fb4c7f));
     background-image: linear-gradient(to top right, #fb4c7f 0%, #573d7d 100%);
-    color: #fff
+    color: #fff;
 }
 
 .has-gradient h1,
 .has-gradient h2,
 .has-gradient p {
-    color: inherit
+    color: inherit;
 }
 
 .align-items-center {
@@ -323,11 +323,11 @@ h2.has-line-center .heading-bg-text {
     width: 2000px;
     line-height: 1;
     text-align: center;
-    user-select: none
+    user-select: none;
 }
 
 .text-bg-gray {
-    color: #333
+    color: #333;
 }
 
 .heading-bg-text {
@@ -339,47 +339,47 @@ h2.has-line-center .heading-bg-text {
     left: 0;
     text-align: inherit;
     user-select: none;
-    z-index: -1
+    z-index: -1;
 }
 
 .mb-70{
-	margin-bottom: 70px !important
+	margin-bottom: 70px !important;
 }
 .mb-0{
-    margin-bottom: 0px !important
+    margin-bottom: 0px !important;
 }
 .mt-0{
-    margin-top: 0px !important
+    margin-top: 0px !important;
 }
 .mt-70{
-	margin-top: 70px !important
+	margin-top: 70px !important;
 }
 .mb-50{
-	margin-bottom: 50px !important
+	margin-bottom: 50px !important;
 }
 .mb-40{
-    margin-bottom: 40px !important
+    margin-bottom: 40px !important;
 }
 .mt-40{
-    margin-top: 40px !important
+    margin-top: 40px !important;
 }
 .mt-20{
-	margin-top: 20px !important
+	margin-top: 20px !important;
 	}
 .mb-20{
-	margin-bottom: 20px !important
+	margin-bottom: 20px !important;
 }
 .mb-10{
-    margin-bottom: 10px !important
+    margin-bottom: 10px !important;
 }
 .mt-63{
-    margin-top: 63px !important
+    margin-top: 63px !important;
 }
 .mt-10{
-    margin-top: 10px
+    margin-top: 10px;
 }
-
-/* Slogan */
+ 
+/* Slogan 
 .lead{
    <head>
       <style>
@@ -432,11 +432,7 @@ h2.has-line-center .heading-bg-text {
             location.reload();
          }
       </script>
-      
-
-
-}
-
+    
 
 /*====================================================================
     Header 3
@@ -583,16 +579,16 @@ a.orange{
     top: 0;
     left: 0;
     background: url(../images/header-images/bg/demo-bg.html) bottom center no-repeat;
-    background-size: cover
+    background-size: cover;
 }
 .w-text{
-    color: #fff !important
+    color: #fff !important;
 }
 .width-100{
-    width: 100%
+    width: 100%;
 }
 .width-120{
-    width: 120%
+    width: 120%;
 }
 .header-4 .header-4-content{
     display: flex;
@@ -601,9 +597,9 @@ a.orange{
     height: 100vh;
 }
 .header-4 .has-line:after{
-    background: #fff !important
+    background: #fff !important;
 }.header-4 .has-line-center:after{
-    background: #fff !important
+    background: #fff !important;
 }
 .demo-4:before{
     content: '';
@@ -645,7 +641,7 @@ a.orange{
     height: 100vh;
 }
 .header-5 .has-line:after{
-    background: #fff !important
+    background: #fff !important;
 }
 
 .header-5 .demo-5-img{
@@ -672,7 +668,7 @@ a.orange{
  ***/
 .s-list li {
     margin-bottom: 10px;
-    color: #777
+    color: #777;
 }
 .s-list span.fa {
     font-size: 16px;
@@ -691,7 +687,7 @@ a.orange{
  ***/
 .how-it-work{
 	background: url('../images/elements/city.png') bottom center no-repeat;
-	background-size: 100%
+	background-size: 100%;
 }
 
 .how-box-one {
@@ -713,11 +709,11 @@ a.orange{
     background: url(../images/elements/arrow-big.png) center center no-repeat;
 }
 .how-box-one:last-child:after{
-	display: none
+	display: none;
 }
 @media (max-width:991px){
 	.how-box-one:after{
-		display: none
+		display: none;
 	}
 }
 
@@ -735,7 +731,7 @@ a.orange{
     position: relative;
     line-height: 1.8em;
     padding: 0px ;
-    color: #777
+    color: #777;
 }
 
 .btn-pill{
@@ -940,10 +936,10 @@ section {
     overflow-x: hidden;
 }
 .section-padding-100{
-    padding: 30px 0
+    padding: 30px 0;
 }
 .section-padding-100-70{
-    padding: 30px 0 70px
+    padding: 30px 0 70px;
 }
 
 .bg-1{
@@ -1012,7 +1008,7 @@ section {
     position: relative;
     line-height: 1.8em;
     padding: 0px ;
-    color: #777
+    color: #777;
 }
 .service-box-one h3 a {
     position: relative;
